@@ -5,4 +5,4 @@
 - ⚡ Fun fact: Blackout Doesn't use Javascript 💀.
 - 🖥 My Stack: Python, Node.js, and HTML.
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/?username=dotlyhiyou&theme=light)](https://github.com/dotlyhiyou)
+[![Top Langs](https://github-readme-stats.vercel.app/api/?username=dotlyhiyou&theme=dark)](https://github.com/dotlyhiyou)
