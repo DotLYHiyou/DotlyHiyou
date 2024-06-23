@@ -6,3 +6,4 @@
 - 🖥 My Stack: Python, Node.js, and HTML.
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/?username=dotlyhiyou&theme=dark)](https://github.com/dotlyhiyou)
+<a href="https://app.daily.dev/dottobot"><img src="https://api.daily.dev/devcards/v2/UIyn6BIBL2Z2dFjZhoBt7.png?type=default&r=nkh" width="356" alt="Dottobot's Dev Card"/></a>
