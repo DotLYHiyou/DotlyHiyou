@@ -1,6 +1,6 @@
 ## Hi There 👋
 
 - 🔭 I’m currently working on BlackoutGames. 
-- 🌱 I’m currently learning Web Design and Luau and MATLAB.
-- ⚡ Fun fact : Join the Official Blackout Games Discord in Bio.
-- 🖥 My Stack: Python, MATLAB, and HTML.
+- 🌱 I’m currently learning Web Design and Luau.
+- ⚡ Fun fact : Idk.
+- 🖥 My Stack: Python and HTML.
