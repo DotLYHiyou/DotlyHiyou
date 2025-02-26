@@ -6,9 +6,8 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 - 🔭 I’m currently working on BlackoutGames.
 - 🌱 I’m currently learning Web Design.
 - ⚡ Fun fact: Don't mind my slow update times, Im a busy guy.
-- 🖥 My Stack: Python and HTML.
+- 🖥 My Stack: HTML and CSS, I don't do Javascript alot.
 - 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about BlackoutGames, and any tips for upcoming projects.
 - 😄 Pronouns: He/Him
 
 ## 📈 GitHub Stats
