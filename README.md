@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about software development and love collaborating on open-source projects. Here's a bit about me:
 
 ## 🚀 About Me
-- 🔭 I’m currently working on BlackoutGames and EduGames.
+- 🔭 I’m currently working on BlackoutGames and EduGames, along with a closed-source Linux Distro called DotOS.
 - 🌱 I’m currently learning Web Design.
 - ⚡ Fun fact: Don't mind my slow update times, Im a busy guy.
 - 🖥 My Stack: HTML and CSS, I don't do Javascript alot.
