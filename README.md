@@ -1,12 +1,12 @@
-# Hi there, I'm DotLYHiyou! 👋
+# Greetings!, I'm Dot
 
 Welcome to my GitHub profile! I'm passionate about software development and love collaborating on open-source projects. Here's a bit about me:
 
 ## 🚀 About Me
-- 🔭 I’m currently working on BlackoutGames and EduGames, along with a closed-source Linux Distro called DotOS.
+- 🔭 I’m currently working on BlackoutGames and EduGames. I also am delving into the concept of MCP servers and how they can be used for beneficial purposes
 - 🌱 I’m currently learning Web Design, and would like to learn Go.
-- ⚡ Fun fact: Don't mind my slow update times, Im a busy guy.
-- 🖥 My Stack: HTML and CSS, I don't do Javascript alot.
+- ⚡ Fun fact: I'm intrested in pushing the boundaries of what can be done with what I have.
+- 🖥 My Prefered Languages: HTML and CSS.
 - 😄 Pronouns: He/Him
 
 ## 📈 GitHub Stats
@@ -17,4 +17,4 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 ## 🕹️ Blackout Games Discord
 [Join the Blackout Games Discord](https://discord.com/invite/rcCnzaPu)
 
-Thanks for stopping by! 😊
+Thanks for stopping by! 
