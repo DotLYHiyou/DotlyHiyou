@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 ## 🚀 About Me
 - 🔭 I’m currently working on BlackoutGames and EduGames. I also am delving into the concept of MCP servers and how they can be used for beneficial purposes
 - 🌱 I’m currently learning Web Design, and would like to learn Go.
-- ⚡ Fun fact: I'm intrested in pushing the boundaries of what can be done with what I have.
+- ⚡ Fun fact: I'm intrested in pushing the boundaries of what can be done with the latest trends in Tech.
 - 🖥 My Prefered Languages: HTML and CSS.
 - 😄 Pronouns: He/Him
 
