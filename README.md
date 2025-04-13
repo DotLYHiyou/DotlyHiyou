@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 ## 🚀 About Me
 - 🔭 I’m currently working on BlackoutGames and EduGames.
 - 🌱 I’m currently learning Web Design, a little about Cybersecurity, and will
-- ⚡ Fun fact: G6PDD-Game has a first place in the Programming category at my local Tech Fair!
+- ⚡ Fun fact: G6PDD-Game got first place in the Programming category at my local Tech Fair this year!
 - Also my favorite youtuber is Fireship. 
 - 🖥 My Prefered Languages: HTML and CSS.
 - 😄 Pronouns: He/Him
