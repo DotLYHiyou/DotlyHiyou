@@ -3,8 +3,8 @@
 Welcome to my GitHub profile! I'm passionate about software development and love collaborating on open-source projects. Here's a bit about me:
 
 ## 🚀 About Me
-- 🔭 I’m currently working on BlackoutGames and EduGames.
-- 🌱 I’m currently learning Web Design, a little about Cybersecurity, and will
+- 🔭 I’m currently working on BlackoutGames, EduGames, and G6PDD-Game.
+- 🌱 I’m currently learning Web Design, a little about Cybersecurity.
 - ⚡ Fun fact: G6PDD-Game got first place in the Programming category at my local Tech Fair this year!
 - Also my favorite youtuber is Fireship. 
 - 🖥 My Prefered Languages: HTML and CSS.
