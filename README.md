@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 - 🌱 I’m currently learning Web Design, Javascript and Node.js, a little about Cybersecurity.
 - ⚡ Fun fact: G6PDD-Game got first place in the Programming category at my local Tech Fair this year!
 - Also my favorite youtuber is Fireship. 
-- 🖥 My Prefered Languages: HTML and CSS.
+- 🖥 My Prefered Languages: HTML, CSS, and Javascript
 - 😄 Pronouns: He/Him
 
 ## 📈 GitHub Stats
