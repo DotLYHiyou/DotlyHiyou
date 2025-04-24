@@ -19,11 +19,10 @@ I'm a Web Dev who lives somewhere. Not saying where ofc. I am a proud Arsenal an
 ![Android](https://img.shields.io/badge/android-000000?style=for-the-badge&logo=android&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsSAAALEgHS3X78AAAAAXNSR0IArs4c6QAAAElJREFUSEtjZGBg+M9APEiEKp1PrBbGUQsIBdVoEBEKIYbRIBocQZRA0BkIBUegTBti9YAimeYWjBZ2eKNjNKMRTK2jQTQCgggAP+Euw17xITQAAAAASUVORK5CYII=&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 <br><br>
-
-
-
+### Things I have worked with
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Arduino](https://img.shields.io/badge/-Arduino-C51A4A?style=for-the-badge&logo=Arduino)
   
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dotlyhiyou&show_icons=true&theme=tokyonight"/>
