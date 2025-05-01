@@ -2,7 +2,7 @@ Welcome to my profile ![](https://user-images.githubusercontent.com/18350557/176
 ===============================================================================================================================
 
 ### 🚀About me:
-I'm a Web Dev who lives somewhere. Not saying where ofc. I am a proud Arsenal and Eagles fan!
+I'm a Web Dev who lives somewhere. Not saying where ofc. I am a proud Arsenal and Eagles fan! I am a proud composer in ai for malicious use-cases.
 
 <br><br>
 ### 📚 Languages I know and use
