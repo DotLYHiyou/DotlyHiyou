@@ -4,9 +4,9 @@ Welcome to my profile ![](https://user-images.githubusercontent.com/18350557/176
 ### 🚀About me:
 I'm a Web Dev who lives somewhere. Not saying where ofc. I am a proud Arsenal and Eagles fan! I am a proud opposer in ai for malicious use-cases. I also love helping people out with their projects.
 
-I am currently working on BlackoutGames, EduGames, BlackoutSearch, and a bunch of projects unrelated to unblocked games.
+I am currently working on Zenithub, EduGames, BlackoutSearch, and a bunch of projects unrelated to unblocked games.
 
-if you are (somehow) a teacher viewing this, I can reassure my intentions for the unblocked games sites are for to be used only during any break time your students may have. if you dont want them to be on blackout, kindly tryout EduGames, Blackout, but educational!
+if you are (somehow) a teacher viewing this, I can reassure my intentions for the unblocked games sites are for to be used only during any break time your students may have. if you dont want them to be on Zenithub, kindly tryout EduGames, Zenithub , but educational!
 <br><br>
 ### 📚 Languages I know and use
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
