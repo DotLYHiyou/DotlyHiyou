@@ -15,11 +15,13 @@
 
 ---
 
-## 🧰 Things I have worked with
+## 🧰 Things I am working with
 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-C51A4A?style=for-the-badge&logo=Arduino)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-0000?style=for-the-badge&logo=React&logoColor=blue)
+
 
 ---
 
