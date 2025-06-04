@@ -1,18 +1,20 @@
 # Hi there, I'm DotLYHiyou 👋
 
-🚀 **Owner & Lead Developer of [Zenithub](https://github.com/DotLYHiyou/Zenithub), and [BlackoutDNS](https://github.com/DotLYHiyou/BlackoutDNS) and many side projects**  
-🧑‍💻 Still learning a lot, but I have basic knowledge on Javascript, and am Intermediate at Python.
-🤗 Check out my Hugging Face: [kpro333](https://huggingface.co/kpro333)  
-🏈 Big fan of the **Philadelphia Eagles**  
-⚽️ Proud supporter of **Arsenal**
+- 🚀 **Owner & Lead Developer of [Zenithub](https://github.com/DotLYHiyou/Zenithub), and [BlackoutDNS](https://github.com/DotLYHiyou/BlackoutDNS) and many side projects**  
+- 🧑‍💻 Still learning a lot, but I have basic knowledge on Javascript, and am Intermediate at Python.
+- 🤗 Check out my Hugging Face: [kpro333](https://huggingface.co/kpro333)  
+- 🏈 Big fan of the **Philadelphia Eagles**  
+- ⚽️ Proud supporter of **Arsenal**
 
 ---
 
 ## 🛠️ Software & Tools I use
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsSAAALEgHS[...])
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=vscodedata:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsSAAALEgHS[...])
 ![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-00A2FF?logo=robloxstudio&logoColor=fff&style=for-the-badge)
-
+![Git](https://img.shields.io/badge/Git-00A2FF?logo=Git&logoColor=fff&style=for-the-badge)
+![Github](https://img.shields.io/badge/Github-00A2FF?logo=github&logoColor=fff&style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-00A2FF?logo=vercel&logoColor=fff&style=for-the-badge)
 ---
 
 ## 🧰 Things I am working with
