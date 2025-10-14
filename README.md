@@ -1,8 +1,7 @@
 # Hi there, I'm DotLYHiyou 👋
 
 - 🚀 **Owner & Lead Developer of [Zenithub](https://github.com/DotLYHiyou/Zenithub)**  
-- 🧑‍💻 Still learning a lot, but I have basic knowledge on Javascript, and am Intermediate at Python.
-- 🤗 Check out my Hugging Face: [kpro333](https://huggingface.co/kpro333)  
+- 🧑‍💻 Still learning a lot.
 - 🏈 Big fan of the **Philadelphia Eagles**  
 - ⚽️ Proud supporter of **Arsenal**
 
