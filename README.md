@@ -1,10 +1,9 @@
-# Hi there, I'm DotLYHiyou 👋
+# Hey There, I'm DotLYHiyou 👋
 
-- 🚀 **Owner & Lead Developer of [Zenithub](https://github.com/DotLYHiyou/Zenithub)**  
+- 🚀 **Owner & Lead Developer of [Zenithub](https://github.com/DotLYHiyou/Zenithub)** among other projects
 - 🧑‍💻 Still learning a lot.
 - 🏈 Big fan of the **Philadelphia Eagles**  
 - ⚽️ Proud supporter of **Arsenal**
-
 ---
 
 ## 🛠️ Software & Tools I use
@@ -16,20 +15,21 @@
 ![Vercel](https://img.shields.io/badge/Vercel-00A2FF?logo=vercel&logoColor=fff&style=for-the-badge)
 ---
 
-## 🧰 Things I am working with
+## 🧰 Things I have worked with
 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-C51A4A?style=for-the-badge&logo=Arduino)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![React](https://img.shields.io/badge/React-0000?style=for-the-badge&logo=React&logoColor=blue)
+![HTML](https://img.shields.io/badge/-HTML-C51A4A?style=for-the-badge&logo=html)
+![CSS](https://img.shields.io/badge/-CSS-C51A4A?style=for-the-badge&logo=CSS)
 
 
 ---
 
-## 🔥 Top Project
+## 🔥 Notable Projects
 
-- [**Zenithub**](https://github.com/DotLYHiyou/Zenithub) — My flagship project!
-
+- Owner and Lead Dev of [**Zenithub**](https://github.com/DotLYHiyou/Zenithub)
+- Contributed to [**Gamerhub**](https://github.com/rcreator822/Gamerhub), but only cuz they needed the help.
+- Working on some stuff, I'll add them here if I release them.
 ---
 
 ## 📊 GitHub Stats
@@ -38,12 +38,15 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DotLYHiyou&layout=compact&theme=radical)
 
 ---
-## Stuff I do for fun
-- play Roblox Forsaken or Dandys World (or another rblx game)
-- Go outside and touch grass (I bet 10 bucks you dont)
-- Play sports
-- code
-- exist (surprising, huh?)
+## I play Roblox too, here are some of my favourite games:
+- Forsaken
+- Die of Death
+- Piggy
+- Stars Align Engine Demo
+- Robot 64
+- RetroKill
+- Loomian Legacy
+- many, many more.
 ---
 
 _Thanks for stopping by!_
