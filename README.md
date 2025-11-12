@@ -47,6 +47,9 @@
 - RetroKill
 - Loomian Legacy
 - many, many more.
----
+
+## I am also interested in looking into:
+- Touhou
+- Limbus Company
 
 _Thanks for stopping by!_
