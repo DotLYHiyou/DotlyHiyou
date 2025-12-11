@@ -39,9 +39,9 @@
     <a href="https://www.roblox.com/games/79738202045183/Doom-By-Fate" target="_blank">Doom By Fate</a> — Description: Coming soon.<br/><br/>
     <a href="https://www.roblox.com/games/14608970270/Outcome-Memories-v0-1" target="_blank">Outcome: Memories (v0.1)</a> — Description: Coming soon.<br/><br/>
     <a href="https://www.roblox.com/games/16549530059/POSTMORTEM" target="_blank">POSTMORTEM</a> — Description: Coming soon.<br/><br/>
-    <a href="https://www.roblox.com/games/12334109280/Guts-Blackpowder" target="_blank">Guts — Blackpowder</a> — Description: Coming soon.<br/><br/>
+    <a href="https://www.roblox.com/games/12334109280/Guts-Blackpowder" target="_blank">Guts and Blackpowder</a> — Description: Coming soon.<br/><br/>
     <a href="https://www.roblox.com/games/16116270224/Dandys-World" target="_blank">Dandy's World</a> — Description: Coming soon.<br/><br/>
-    <a href="https://www.roblox.com/games/14107732720/late-july-midsummer" target="_blank">late july — midsummer</a> — Description: Coming soon.<br/><br/>
+    <a href="https://www.roblox.com/games/14107732720/late-july-midsummer" target="_blank">late july, midsummer</a> — Description: Coming soon.<br/><br/>
     <a href="https://www.minecraft.net/" target="_blank">Minecraft</a> — Description: Coming soon.
   </div>
 
