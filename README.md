@@ -1,23 +1,55 @@
-<h1 align="center">About Me ~ DotLYHiyou</h1>
+<div align="center">
 
-<p align="center">Hey! I'm DotLYHiyou! I'm an aspiring software developer/engineer learning stuff, and I'm most known for making Zenithub!</p>
+  <img src="https://github.com/DotLYHiyou.png" alt="DotLYHiyou" width="160" height="160" style="border-radius:50%; box-shadow: 0 6px 20px rgba(0,0,0,0.15);" />
 
-<h2 align="center">My current skillset:</h2>
+  <h1>DotLYHiyou</h1>
 
-<p align="center">Everything BBC Micro:bit </p>
-<p align="center">Some HTML</p>
-<p align="center">A bit of CSS</p>
-<p align="center">A pinch of JS (Going thru the learning process)</p>
-<p align="center">A whole bunch of random crap that I can't remember to save my life</p>
+  <h2>👋 About Me</h2>
+  <p style="max-width:640px; margin:6px auto;">
+    Hi there! I'm <strong>DotLYHiyou</strong> — welcome to my bio repository.
+  </p>
+  <p style="max-width:640px; margin:6px auto;">
+    🔭 Passionate about hands-on computing and creative coding.<br/>
+    🌱 Continuously learning and improving practical skills.<br/>
+    💬 Interested in web fundamentals and embedded projects.
+  </p>
 
-<h2 align="center">Projects I've worked on:</h2>
+  <h2>💡 Current Skillset</h2>
+  <p style="max-width:720px; margin:12px auto; font-weight:600;">
+    BBC micro:bit<br/>
+    HTML<br/>
+    CSS<br/>
+    JavaScript (learning)
+  </p>
 
-<p align="center">Zenithub (SOON TO BE DEPRECATED)</p>
-<p align="center">DotGUI (UPCOMING AND WILL BE SUCCESOR TO ZENITHUB)</p>
-<p align="center">[CURRENTLY UNNAMED and UPCOMING] Proxy</p>
+  <h2>📁 Projects</h2>
+  <p style="max-width:720px; margin:8px auto;">
+    <a href="https://github.com/DotLYHiyou/Zenithub" target="_blank">Zenithub</a> — Unblocked games site; deprecated soon — will be superseded by DotGUI.<br/><br/>
+    DotGUI — Replacement for Zenithub: unblocked games, tools & proxies (in development).<br/><br/>
+    <a href="https://github.com/BareBones-Linux/BareBones" target="_blank">BareBones</a> — Minimal Linux distro designed for very low-end devices (WIP)
+  </p>
 
-<h2 align="center">Fav video games</h2>
-<p align="center">Roblox Forsaken, Dandy's World, Doom by Fate, etc.</p>
-<p align="center">Minecraft</p>
-<p align="center">That's it. Yeah.</p>
-_Thanks for stopping by!_
+  <h2>🎮 Favorite Video Games</h2>
+  <p style="max-width:760px; margin:8px auto; font-weight:600; line-height:1.4;">
+    I mostly play Roblox and Minecraft. Links and short placeholders below:
+  </p>
+
+  <div style="display:inline-block; text-align:center; max-width:760px; margin:6px auto; line-height:1.6;">
+    <a href="https://www.roblox.com/games/4623386862/Piggy" target="_blank">Piggy</a> — Description: Coming soon.<br/><br/>
+    <a href="https://www.roblox.com/games/18687417158/Forsaken" target="_blank">Forsaken</a> — Description: Coming soon.<br/><br/>
+    <a href="https://www.roblox.com/games/79738202045183/Doom-By-Fate" target="_blank">Doom By Fate</a> — Description: Coming soon.<br/><br/>
+    <a href="https://www.roblox.com/games/14608970270/Outcome-Memories-v0-1" target="_blank">Outcome: Memories (v0.1)</a> — Description: Coming soon.<br/><br/>
+    <a href="https://www.roblox.com/games/16549530059/POSTMORTEM" target="_blank">POSTMORTEM</a> — Description: Coming soon.<br/><br/>
+    <a href="https://www.roblox.com/games/12334109280/Guts-Blackpowder" target="_blank">Guts — Blackpowder</a> — Description: Coming soon.<br/><br/>
+    <a href="https://www.roblox.com/games/16116270224/Dandys-World" target="_blank">Dandy's World</a> — Description: Coming soon.<br/><br/>
+    <a href="https://www.roblox.com/games/14107732720/late-july-midsummer" target="_blank">late july — midsummer</a> — Description: Coming soon.<br/><br/>
+    <a href="https://www.minecraft.net/" target="_blank">Minecraft</a> — Description: Coming soon.
+  </div>
+
+  <hr style="width:60%; margin: 18px auto;" />
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=DotLYHiyou&style=flat-square" alt="profile views"/>
+  </p>
+
+</div>
