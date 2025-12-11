@@ -6,7 +6,7 @@
 
   <h2>👋 About Me</h2>
   <p style="max-width:640px; margin:6px auto;">
-    Hi there! I'm <strong>DotLYHiyou</strong> — welcome to my bio repository.
+    Hi there! I'm <strong>DotLYHiyou</strong> — welcome to my humble account I call home online.
   </p>
   <p style="max-width:640px; margin:6px auto;">
     🔭 Learning alot of stuff, don't expect me to be the best.<br/>
