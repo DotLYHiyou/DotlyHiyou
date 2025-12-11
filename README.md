@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img width="1000" height="521" alt="DoDxRosinTeaser2" src="https://github.com/user-attachments/assets/060045be-d45f-4298-83d9-a4d482b6f07f" style="border-radius:50%; box-shadow: 0 6px 20px rgba(0,0,0,0.15);"/>
+  <img src="https://github.com/DotLYHiyou.png"/>
 
   <h1>DotLYHiyou</h1>
 
@@ -25,12 +25,12 @@
   <p style="max-width:720px; margin:8px auto;">
     <a href="https://github.com/DotLYHiyou/Zenithub" target="_blank">Zenithub</a> — Unblocked games site; deprecated soon — will be superseded by DotGUI.<br/><br/>
     DotGUI — Replacement for Zenithub: unblocked games, tools & proxies (in development).<br/><br/>
+    Unnamed Proxy — Scramjet-powered proxy (in development).<br/><br/>
     <a href="https://github.com/BareBones-Linux/BareBones" target="_blank">BareBones</a> — Minimal Linux distro designed for very low-end devices (WIP)
   </p>
-
   <h2>🎮 Favorite Video Games</h2>
   <p style="max-width:760px; margin:8px auto; font-weight:600; line-height:1.4;">
-    I mostly play Roblox and Minecraft.
+    I mostly play Roblox and Minecraft. Also this section is WAY too long.
   </p>
 
   <div style="display:inline-block; text-align:center; max-width:760px; margin:6px auto; line-height:1.6;">
