@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/DotLYHiyou.png" alt="DotLYHiyou" width="160" height="160" style="border-radius:50%; box-shadow: 0 6px 20px rgba(0,0,0,0.15);" />
+  <img width="1000" height="521" alt="DoDxRosinTeaser2" src="https://github.com/user-attachments/assets/060045be-d45f-4298-83d9-a4d482b6f07f" style="border-radius:50%; box-shadow: 0 6px 20px rgba(0,0,0,0.15);"/>
 
   <h1>DotLYHiyou</h1>
 
@@ -38,6 +38,7 @@
     <a href="https://www.roblox.com/games/18687417158/Forsaken" target="_blank">Roblox Forsaken</a> — popular asymmetrical survival horror game on Roblox, inspired by Dead by Daylight, where one player is a Killer hunting others who play as Survivors trying to complete objectives. It's insanely fun if you ignore the drama happening every five seconds.<br/><br/>
     <a href="https://www.roblox.com/games/79738202045183/Doom-By-Fate" target="_blank">Roblox Doom By Fate</a> — yet another asym heavily inspired by DBD, except this one is just one big Project Moon reference. Some characters only have one skin, and that skin is a Project Moon character. Super fun.<br/><br/>
     <a href="https://www.roblox.com/games/14608970270/Outcome-Memories-v0-1" target="_blank">Roblox Outcome Memories (v0.1)</a> — ANOTHER asym game, this time based around SEGA characters like Sonic and Tails running away from executioners like 2011x until the portal appears. When I first started playing, the game was just <i>bash 2011x as numerous SEGA characters until the portal appears</i> simulator, but it was still fun.<br/><br/>
+    <a href="[link]" target="_blank">Roblox Die of Death</a> — Hilarious take on the current retro-styled asymmetrical horror game boom, and it is really well made and really fun with freinds.<br/><br/>
     <a href="https://www.roblox.com/games/16549530059/POSTMORTEM" target="_blank">Roblox POSTMORTEM</a> — surreal horror exploration game on Roblox, inspired by games like Yume Nikki, where players explore an afterlife limbo for answers about a philosopher's death.<br/><br/>
     <a href="https://www.roblox.com/games/12334109280/Guts-Blackpowder" target="_blank">Roblox Guts and Blackpowder</a> — PVE shooter game set during the Napoleonic Wars where players fight off waves of zombies using period-accurate muskets, swords, and tactics. Haven't played this much but I really like it.<br/><br/>
     <a href="https://www.roblox.com/games/16116270224/Dandys-World" target="_blank">Roblox Dandy's World</a> — a popular multiplayer survival-horror game where players are cute Toons trying to complete tasks in a creepy, abandoned place while avoiding monstrous Twisteds. The character designs are really fun to look at that I literally die just admiring what the character I'm playing looks like.<br/><br/>
