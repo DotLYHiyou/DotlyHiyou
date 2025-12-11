@@ -9,9 +9,8 @@
     Hi there! I'm <strong>DotLYHiyou</strong> — welcome to my bio repository.
   </p>
   <p style="max-width:640px; margin:6px auto;">
-    🔭 Passionate about hands-on computing and creative coding.<br/>
-    🌱 Continuously learning and improving practical skills.<br/>
-    💬 Interested in web fundamentals and embedded projects.
+    🔭 Learning alot of stuff, don't expect me to be the best.<br/>
+    🌱 Best known for my work in the UBG community, which isn't a whole lot<br/>
   </p>
 
   <h2>💡 Current Skillset</h2>
@@ -31,7 +30,7 @@
 
   <h2>🎮 Favorite Video Games</h2>
   <p style="max-width:760px; margin:8px auto; font-weight:600; line-height:1.4;">
-    I mostly play Roblox and Minecraft. Links and short placeholders below:
+    I mostly play Roblox and Minecraft.
   </p>
 
   <div style="display:inline-block; text-align:center; max-width:760px; margin:6px auto; line-height:1.6;">
