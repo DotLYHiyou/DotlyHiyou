@@ -45,5 +45,7 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=DotLYHiyou&style=flat-square" alt="profile views"/>
   </p>
-
+<a href="https://github.com/DotLYHiyou" style="display:block;margin:0;">
+<img src="https://github-readme-stats.vercel.app/api?username=dotlyhiyou&theme=monokai&show_icons=true&hide_border=true&count_private=true" width="495" height="auto" style="display:block;margin:0;" alt="alivehamster's Stats"/>
+</a>
 </div>
