@@ -23,8 +23,7 @@
 
   <h2>📁 Projects</h2>
   <p style="max-width:720px; margin:8px auto;">
-    <a href="https://github.com/DotLYHiyou/Zenithub" target="_blank">Zenithub</a> — Unblocked games site; deprecated soon — will be superseded by DotGUI.<br/><br/>
-    DotGUI — Replacement for Zenithub: unblocked games, tools & proxies (in development).<br/><br/>
+    <a href="https://github.com/DotLYHiyou/Zenithub" target="_blank">Zenithub</a> — Unblocked games site, will be reworked soon, and will be rebranded to DotGUI.<br/><br/>
     Unnamed Proxy — Scramjet-powered proxy (in development).<br/><br/>
     <a href="https://github.com/BareBones-Linux/BareBones" target="_blank">BareBones</a> — Minimal Linux distro designed for very low-end devices (WIP)
   </p>
