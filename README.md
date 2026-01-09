@@ -1,50 +1,20 @@
 <div align="center">
-
   <img src="https://github.com/DotLYHiyou.png"/>
+  <h2>Hey There! I'm DotLYHiyou</h2>
+  <!-- <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> -->
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<br>
+<p align="center">
+  <a href="https://dotlyhiyou.carrd.co">My Carrd</a> •
+  <a href="https://www.roblox.com/users/1359863063/profile">My Roblox profile. No friend requests.</a> •
+  <a href="https://discord.com/invite/U8tT8AazXb">DotGUI Discord Server</a>
+</p>
 
-  <h1>DotLYHiyou</h1>
-
-  <h2>👋 About Me</h2>
-  <p style="max-width:640px; margin:6px auto;">
-    Hi there! I'm <strong>DotLYHiyou</strong> — welcome to my humble account I call home online.
-  </p>
-  <p style="max-width:640px; margin:6px auto;">
-    🔭 Learning alot of stuff, don't expect me to be the best.<br/>
-    🌱 Best known for my work in the UBG community, which isn't a whole lot<br/>
-  </p>
-
-  <h2>💡 Current Skillset</h2>
-  <p style="max-width:720px; margin:12px auto; font-weight:600;">
-    BBC micro:bit<br/>
-    HTML<br/>
-    CSS<br/>
-    JavaScript (learning)
-  </p>
-
-  <h2>📁 Projects</h2>
-  <p style="max-width:720px; margin:8px auto;">
-    <a href="https://github.com/DotLYHiyou/DotGUI" target="_blank">DotGUI</a> — an advanced game-site that features over 80+ games, a (half-baked atm) proxy, tools, clean UI and UX, and high-quality updates that bring much needed changes. Its also the easiest to deploy, since we are STATIC! We also have the fastest fan-service of ANY site out there!<br/><br/>
-    Unnamed Proxy — Scramjet-powered proxy (in development).<br/><br/>
-    <a href="https://github.com/BareBones-Linux/BareBones" target="_blank">BareBones</a> — Minimal Linux distro designed for very low-end devices (WIP)
-  </p>
-  <h2>🎮 Favorite Video Games</h2>
-  <p style="max-width:760px; margin:8px auto; font-weight:600; line-height:1.4;">
-    I mostly play Roblox, and sometimes other stuff. You might see some of the content from this stuff leak through some of my works.
-  </p>
-
-  <div style="display:inline-block; text-align:center; max-width:760px; margin:6px auto; line-height:1.6;">
-    <a href="https://www.roblox.com/games/4623386862/Piggy" target="_blank">Roblox Piggy</a> — episodic survival horror game on the Roblox platform where players either try to escape a map as survivors by solving puzzles or play as the infected, zombie Piggy to hunt down the others. My favorite Roblox game oat. For being almost 6 years old (damn unc) the game still holds up pretty well, with minor updates here and there, what I'm really waiting for is Piggy Intercity. 👀<br/><br/>
-    <a href="https://www.roblox.com/games/18687417158/Forsaken" target="_blank">Roblox Forsaken</a> — popular asymmetrical survival horror game on Roblox, inspired by Dead by Daylight, where one player is a Killer hunting others who play as Survivors trying to complete objectives. My favorite Roblox game of 2025, yes I know about soul, no that isn't gonna stop me from glazing this game.<br/><br/>
-    <a href="https://www.roblox.com/games/16116270224/Dandys-World" target="_blank">Roblox Flood Escape 2</a> — A platformer/escape type game. In Flood Escape 2, players must work together to press all the buttons in a map to escape, while the water level is constantly rising. I absoloutely adore the fact that they have a map making kit.<br/><br/>
-    <a href="https://www.minecraft.net/" target="_blank">Minecraft</a> — gng do I even have to explain what this is? Anyway, I really like Redstone and the Create Mod.
-  </div>
-
-  <hr style="width:60%; margin: 18px auto;" />
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=DotLYHiyou&style=flat-square" alt="profile views"/>
-  </p>
-<a href="https://github.com/DotLYHiyou" style="display:block;margin:0;">
-<img src="https://github-readme-stats.vercel.app/api?username=dotlyhiyou&theme=monokai&show_icons=true&hide_border=true&count_private=true" width="495" height="auto" style="display:block;margin:0;" alt="alivehamster's Stats"/>
-</a>
-
+<p align="center">
+  I like coding and playing roblox, and tinkering with stuff in general like Raspberry Pi's, Arduino's, Micro:bits and the works. I also own and maintain DotGUI. 
+  
+  As for my persona, I really like Builderman, and see the character itself as someone like me, rather than the actual CEO of Roblox.
+</p>
+</div>
