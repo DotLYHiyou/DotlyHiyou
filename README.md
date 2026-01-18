@@ -13,8 +13,8 @@
 </p>
 <h3>My Projects:</h3>
 <p><em>All of these are available to look at in my pins unless I say otherwise</em></p>
-<p>DotGUI: Unblocked Games Website, this is its 3rd branding btw.</p>
-<p>Barebones UBG: DIY UBG site kit. Coming soon. 👀</p>
+<p><strong>DotGUI</strong>: Unblocked Games Website, this is its 3rd branding btw.</p>
+<p><strong>Barebones UBG</strong>: DIY UBG site kit. Coming soon. 👀</p>
 <p align="center">
   I like coding and playing Roblox asyms. I also like to learn about new stuff and toy around with things. I only really work on unblocked games stuff In terms of actual projects, but I'm learning to become a software engineer. 
 
