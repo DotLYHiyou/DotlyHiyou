@@ -21,4 +21,16 @@
 
 Quick note about me: I tend to change my pfp several times a month to a new Roblox Forsaken related image. This is cuz I have a crippling addiction with Roblox Forsaken and Roblox Asymmetrical Horror games. Anybody got any other roblox games that are cool?
 </p>
+<h1>My Current Learning Roadmap: </h1>
+<p>I'm actively updating this list with progress and stuff to learn, so stay tuned.</p>
 </div>
+<ul>
+  <li>HTML: 2/3 of the way there, In Progress</li>
+  <li>CSS: Beginner level, In Progress</li>
+  <li>Javascript: Beginner level, Eager to Finish, Not Started</li>
+  <li>Node: Eager to get to, Not Started</li>
+  <li>TypeScript: Eager to get to, Not Started</li>
+  <li>React: Not Started</li>
+  <li>Bun: Eager to get to, Not Started</li>
+  <li><a href="https://elysiajs.com/">ElysiaJS</a>: Really eager to get to, Not Started.</li>
+</ul>
