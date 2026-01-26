@@ -8,7 +8,7 @@
   BBC Micro:Bit
 <br>
 <p align="center">
-  <a href="https://dotlyhiyou.carrd.co">My Carrd</a> •
+  <a href="https://guns.lol/dotlyhiyou">My guns.lol</a> •
   <a href="https://www.roblox.com/users/1359863063/profile">My Roblox profile. No friend requests.</a> •
   <a href="https://discord.com/invite/U8tT8AazXb">DotGUI Discord Server</a>
 </p>
