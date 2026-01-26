@@ -27,7 +27,7 @@ Quick note about me: I tend to change my pfp several times a month to a new Robl
 <ul>
   <li>HTML: 2/3 of the way there, In Progress</li>
   <li>CSS: Beginner level, In Progress</li>
-  <li>Javascript: Beginner level, Eager to Finish, Not Started</li>
+  <li>Javascript: Beginner level, Eager to Finish, In Progress</li>
   <li>Node: Eager to get to, Not Started</li>
   <li>TypeScript: Eager to get to, Not Started</li>
   <li>React: Not Started</li>
