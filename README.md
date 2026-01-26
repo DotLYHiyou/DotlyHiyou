@@ -34,3 +34,6 @@ Quick note about me: I tend to change my pfp several times a month to a new Robl
   <li>Bun: Eager to get to, Not Started</li>
   <li><a href="https://elysiajs.com/">ElysiaJS</a>: Really eager to get to, Not Started.</li>
 </ul>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DotLYHiyou000115&theme=react-dark"/>
+</p>
