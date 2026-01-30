@@ -10,7 +10,8 @@
 <p align="center">
   <a href="https://guns.lol/dotlyhiyou">My guns.lol</a> •
   <a href="https://www.roblox.com/users/1359863063/profile">My Roblox profile. No friend requests.</a> •
-  <a href="https://discord.com/invite/U8tT8AazXb">DotGUI Discord Server</a>
+  <a href="https://discord.com/invite/U8tT8AazXb">DotGUI Discord Server</a> •
+  <a href="https://codeberg.org/DotLYHiyou">Codeberg for Personal projects</a>
 </p>
 <h3>My Projects:</h3>
 <p><em>All of these are available to look at in my pins unless I say otherwise</em></p>
