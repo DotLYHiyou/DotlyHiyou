@@ -20,7 +20,7 @@
 <p align="center">
   I like coding and playing Roblox asyms. I also like to learn about new stuff and toy around with things. I only really work on unblocked games stuff In terms of actual projects, but I'm learning to become a fullstack javascript developer.
 
-Quick note about me: I tend to change my pfp several times a month to a new Roblox Forsaken related image. This is cuz I have a crippling addiction with Roblox Forsaken and Roblox Asymmetrical Horror games. Anybody got any other roblox games that are cool?
+Quick note about me: I tend to change my pfp several times a month to a new Roblox Forsaken related image. This is cuz I have a crippling addiction with Roblox Forsaken and Roblox Asymmetrical Horror games.
 </p>
 <h1>My Current Learning Roadmap: </h1>
 <p>I'm actively updating this list with progress and stuff to learn, so stay tuned.</p>
