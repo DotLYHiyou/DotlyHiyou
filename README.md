@@ -16,7 +16,7 @@
 <h3>Projects I've Worked on / contributed to:</h3>
 <p><em>All of these are available to look at in my pins unless I say otherwise</em></p>
 <p><strong>DotGUI (I own)</strong>: Unblocked Games Website, this is its 3rd branding btw.</p>
-<p><strong>pxt-microbit docs(I contributed to)</strong>: pxt-microbit is a Microsoft Programming Experience Toolkit (PXT) target that allows you to program a BBC micro:bit.</p>
+<p><strong>PXT-Microbit Docs (I contributed to)</strong>: pxt-microbit is a Microsoft Programming Experience Toolkit (PXT) target that allows you to program a BBC micro:bit.</p>
 <p><strong>Barebones UBG (I own) </strong>: DIY UBG site kit. Wanna make your own UBG sites? Read the <a href="https://barebones-docs.surge.sh">docs!</a></p>
 <p align="center">
   I like coding and playing Roblox asyms. I also like to learn about new stuff and toy around with things. I only really work on unblocked games stuff In terms of actual projects, but I'm learning to become a fullstack javascript developer.
