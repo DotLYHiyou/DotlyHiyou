@@ -20,7 +20,11 @@
 <p align="center">
   I like coding and playing Roblox asyms. I also like to learn about new stuff and toy around with things. I only really work on unblocked games stuff In terms of actual projects, but I'm learning to become a fullstack javascript developer.
 
-Quick note about me: I tend to change my pfp several times a month to a new Roblox Forsaken related image. This is cuz I have a crippling addiction with Roblox Forsaken and Roblox Asymmetrical Horror games.
+Quick note about me: I tend to change my pfp several times a month to a new Roblox Forsaken related image. This is cuz I have a crippling addiction with Roblox Forsaken and Roblox Asymmetrical Horror games. I'm constantly trying to find a PFP to stick to.
+
+<h1>My Thoughts on The Forsaken Controversies as an addict</h1>
+<p>I personally can't stop playing Forsaken despite countless times with the dev team showing they seriously suck at running the game. From the whole Soul thing and the 25% situation, to ffprankster saying the n-word with no punishment and yuyu's whole ordeal within the Outcome Memories team (RIP OM), <b><em>I honestly can say I'm very disappointed in them as many others are.</em></b> But, I'll continue enjoying the game since playing it doesn't really make me as bad as them. </p>
+<h3>THESE ARE JUST MY THOUGHTS, DON'T TALK ABOUT IT IN ANY OF MY PROJECTS OR DM ME ABOUT IT.</h3>
 </p>
 <h1>My Current Learning Roadmap: </h1>
 <p>I'm actively updating this list with progress and stuff to learn, so stay tuned.</p>
