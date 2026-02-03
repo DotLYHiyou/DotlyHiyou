@@ -18,7 +18,7 @@
   
   I like coding and playing Roblox asyms. I also like to learn about new stuff and toy around with things. I only really work on unblocked games stuff In terms of actual projects, but I'm learning to become a fullstack javascript developer.
 
-Quick note about me: I tend to change my pfp several times a month to a new Roblox Forsaken related image. This is cuz I have a crippling addiction with Roblox Forsaken and Roblox Asymmetrical Horror games. I'm constantly trying to find a PFP to stick to.
+Quick note about me: I tend to change my pfp several times a month to a new Roblox Forsaken related image. This is because I really like Roblox Forsaken and Roblox Asymmetrical Horror games. I'm constantly trying to find a PFP to stick to.
 </p>
 <h1>Projects I'm Working on / I've contributed to:</h1>
 <p><em>All of these are available to look at in my pins unless I say otherwise</em></p>
