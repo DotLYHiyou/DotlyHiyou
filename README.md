@@ -16,7 +16,7 @@
   <h1>About Me:</h1>
 <p align="center">
   
-  I like coding and playing Roblox asyms. I also like to learn about new stuff and toy around with things. I only really work on unblocked games stuff In terms of actual projects, but I'm learning to become a fullstack javascript developer.
+  I like coding and playing video games. I also like to learn about new stuff and tinker with things. I only really work on unblocked games stuff In terms of actual projects, but I'm learning to become a fullstack javascript developer.
 
 Quick note about me: I tend to change my pfp several times a month to a new Roblox Forsaken related image. This is because I really like Roblox Forsaken and Roblox Asymmetrical Horror games. I'm constantly trying to find a PFP to stick to.
 </p>
@@ -39,6 +39,12 @@ Quick note about me: I tend to change my pfp several times a month to a new Robl
   <li><a href="https://elysiajs.com/">ElysiaJS</a>: <em>Really</em> eager to get to, Not Started.</li>
   <li>TypeScript: Eager to get to, Not Started</li>
   <li>React: Not Started</li>
+</ul>
+<h3>Things I'm Learning on the side</h3>
+<ul>
+   <li>Luau</li>
+   <li>Elixir</li>
+   <li>Roblox TS</li>
 </ul>
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-pi-murex.vercel.app?user=DotLYHiyou&theme=rust-ferris-dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
