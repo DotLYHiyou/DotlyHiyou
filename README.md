@@ -40,12 +40,15 @@ Quick note about me: I tend to change my pfp several times a month to a new Robl
   <li>TypeScript: Eager to get to, Not Started</li>
   <li>React: Not Started</li>
 </ul>
+<div align="center">
 <h3>Things I'm Learning on the side</h3>
-<ul>
-   <li>Luau</li>
-   <li>Elixir</li>
-   <li>Roblox TS</li>
-</ul>
+  <p>- Luau</p>
+<p>- Elixir</p>
+<p>- Roblox TS</p>
+</div>
+
+<br></br>
+
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-pi-murex.vercel.app?user=DotLYHiyou&theme=rust-ferris-dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DotLYHiyou&theme=react-dark"/>
