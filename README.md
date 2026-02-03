@@ -27,10 +27,6 @@ Quick note about me: I tend to change my pfp several times a month to a new Robl
 <p><strong>PXT-Microbit Docs (I contributed to)</strong>: pxt-microbit is a Microsoft Programming Experience Toolkit (PXT) target that allows you to program a BBC micro:bit.</p>
 <p><strong>Barebones UBG (I own) </strong>: DIY UBG site kit. Wanna make your own UBG sites? Read the <a href="https://barebones-docs.surge.sh">docs!</a></p>
 
-<h2>My Thoughts on The Forsaken Controversies</h2>
-<p>As an avid player with 12+ days of playtime, I personally can't stop playing Forsaken despite countless times with the dev team showing they seriously suck at running the game. From the whole Soul thing and the 25% situation, to ffprankster saying the n-word with no punishment and yuyu's whole ordeal within the Outcome Memories team (RIP OM), <b><em>I honestly can say I'm very disappointed in them as many others are.</em></b> But, I'll continue enjoying the game since playing it doesn't really make me as bad as them. </p>
-<h3>THESE ARE JUST MY THOUGHTS, DON'T TALK ABOUT IT IN ANY OF MY PROJECTS OR DM ME ABOUT IT.</h3>
-</p>
 <h1>My Current Learning Roadmap: </h1>
 <p>I'm actively updating this list with progress and stuff to learn, so stay tuned.</p>
 </div>
@@ -45,5 +41,6 @@ Quick note about me: I tend to change my pfp several times a month to a new Robl
   <li>React: Not Started</li>
 </ul>
 <p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-pi-murex.vercel.app?user=DotLYHiyou&theme=rust-ferris-dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DotLYHiyou&theme=react-dark"/>
 </p>
